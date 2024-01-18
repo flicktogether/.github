@@ -1,4 +1,4 @@
 <div align="center">
 
-![banner](./BANNER.svg)
+![banner](./profile/BANNER.svg)
 </div>
